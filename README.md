@@ -1,8 +1,8 @@
-<a href="javascript:;"><img src="https://github.com/inspired-solutions/react-native-antd-starter/blob/master/assets/expo-banner.png" height="50" width="200"></a>
+<a href="#"><img src="https://github.com/inspired-solutions/react-native-antd-starter/blob/master/assets/expo-banner.png" height="50" width="200"></a>
 
-<a href="javascript:;"><img src="https://github.com/inspired-solutions/react-native-antd-starter/blob/master/assets/react-native-banner.png" height="60" width="200"></a>
+<a href="#"><img src="https://github.com/inspired-solutions/react-native-antd-starter/blob/master/assets/react-native-banner.png" height="60" width="200"></a>
 
-<a href="javascript:;"><img src="https://github.com/inspired-solutions/react-native-antd-starter/blob/master/assets/ant-design-mobile-banner.png" height="100" width="100"></a>
+<a href="#"><img src="https://github.com/inspired-solutions/react-native-antd-starter/blob/master/assets/ant-design-mobile-banner.png" height="100" width="100"></a>
 
 # Libraries
 <a href="https://expo.io/">Expo</a>
