@@ -1,8 +1,8 @@
-![alt text](\assets\expo-banner.png)
+![alt text](https://github.com/inspired-solutions/react-native-antd-starter/blob/master/assets/expo-banner.png)
 
-![alt text](\assets\react-native-banner.png)
+![alt text](https://github.com/inspired-solutions/react-native-antd-starter/blob/master/assets/react-native-banner.png)
 
-![alt text](\assets\ant-design-mobile-banner.png)
+![alt text](https://github.com/inspired-solutions/react-native-antd-starter/blob/master/assets/ant-design-mobile-banner.png)
 
 # Libraries
 <a href="https://expo.io/">Expo</a>
