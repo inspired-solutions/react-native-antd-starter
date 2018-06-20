@@ -1,8 +1,8 @@
-![alt text](https://github.com/inspired-solutions/react-native-antd-starter/blob/master/assets/expo-banner.png)
+<img src="https://github.com/inspired-solutions/react-native-antd-starter/blob/master/assets/expo-banner.png" height="250">
 
-![alt text](https://github.com/inspired-solutions/react-native-antd-starter/blob/master/assets/react-native-banner.png)
+<img src="https://github.com/inspired-solutions/react-native-antd-starter/blob/master/assets/react-native-banner.png" height="250">
 
-![alt text](https://github.com/inspired-solutions/react-native-antd-starter/blob/master/assets/ant-design-mobile-banner.png)
+<img src="https://github.com/inspired-solutions/react-native-antd-starter/blob/master/assets/ant-design-mobile-banner.png" height="250">
 
 # Libraries
 <a href="https://expo.io/">Expo</a>
